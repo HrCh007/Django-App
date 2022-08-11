@@ -1,5 +1,5 @@
 li a {
-    color: green;
+    color: rgb(208, 161, 7);
     text-decoration: none;
     font-size: 30px;
 }
@@ -9,5 +9,8 @@ li a:hover {
 }
 
 body {
-    background: white url("images/Background.jpg") no-repeat;
+    background-image:  url("images/Tennis.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
